@@ -1,14 +1,24 @@
 # Hi, I'm Kamal 👋
 
-I'm a junior mobile developer with a passion for building clean, simple apps using Flutter, C#, and Java.  
-Currently improving my skills and looking for junior roles in Germany 🇩🇪
+🎯 Junior Mobile Developer passionate about building clean, useful apps.  
+🎓 B.Sc. in Computer Science | 🇩🇪 B2 German | Fluent in English & French  
+📍 Based in Morocco | Open to relocation & remote work  
 
-## 🔧 Tech Stack
-- Flutter & Dart  
-- C# & .NET  
-- Java  
-- Unity for game dev
-- Wordpress
+## 🔧 Skills
+- Flutter & Dart
+- C# (.NET)
+- Java
+- Swift (iOS)
+- Unity (2D Mobile Games)
 
-## 📌 Featured Project
-[Flutter To-Do List App](https://github.com/katala-kamal/flutter_todo_list_app) – A basic to-do list with task add/delete features.
+## 📱 Portfolio Projects
+- [📝 Flutter To-Do App](https://github.com/katala-kamal/flutter_todo_list_app)
+- [🌤️ Flutter Weather App](https://github.com/katala-kamal/weather_app)
+- [⚖️ BMI Calculator App](https://github.com/katala-kamal/bmi_calculator_app)
+
+## 💡 What I’m Doing
+- Preparing for junior roles in Germany
+- Improving my Flutter & API integration skills
+- Building a public portfolio to showcase my work
+
+Let’s build something great together!
