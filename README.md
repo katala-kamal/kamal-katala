@@ -7,8 +7,8 @@ Currently improving my skills and looking for junior roles in Germany 🇩🇪
 - Flutter & Dart  
 - C# & .NET  
 - Java  
-- Swift (iOS)  
 - Unity for game dev
+- Wordpress
 
 ## 📌 Featured Project
 [Flutter To-Do List App](https://github.com/katala-kamal/flutter_todo_list_app) – A basic to-do list with task add/delete features.
